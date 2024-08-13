@@ -1,5 +1,10 @@
 # Three.js Journey
 
+## Overview
+Continuing my joourney 
+
+[Demo] (https://3d-text-threejs-etb811ac.netlify.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
