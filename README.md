@@ -1,9 +1,9 @@
 # Three.js Journey
 
 ## Overview
-Continuing my joourney 
+Diving into the world of 3D graphics with Three.js!  Textures, materials, and geometries are starting to make sense.  Excited to see what I can create next.
 
-[Demo] (https://3d-text-threejs-etb811ac.netlify.app/)
+[Demo](https://3d-text-threejs-etb811ac.netlify.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
